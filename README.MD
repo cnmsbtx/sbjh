@@ -3,6 +3,6 @@ void  main()
 {
 	float a ;
      a = 3.141592612;
-	printf("a=%f\n",a);
+	printf("a=%f\n",a,"wyr");
 }
 -fix-jrjh
