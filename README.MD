@@ -5,3 +5,4 @@ void  main()
      a = 3.141592612;
 	printf("a=%f\n",a);
 }
+-fix-jrjh
